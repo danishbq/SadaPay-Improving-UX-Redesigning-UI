@@ -9,4 +9,4 @@ The first report shares the findings of the user survey, particularly:
 
 The second report gives a detailed summary and descriptions of the enhancements made and new features added to the SadaPay mobile application in the form of a prototype. The prototype is constructed using the web-based application, Figma
 
-Final Prototype link: https://www.figma.com/design/9NLrUcY4cIcCJfBZ0vQpLR/HCI-Phase-2---Final-Prototype?node-id=0-1&t=hVcciSerapW77IFR-1
+Prototype link: https://www.figma.com/design/9NLrUcY4cIcCJfBZ0vQpLR/HCI-Phase-2---Final-Prototype?node-id=0-1&t=hVcciSerapW77IFR-1
